@@ -1,4 +1,4 @@
-# # Azure Databricks - Data Engineering Project
+# Azure Databricks - Data Engineering Project
 
 This repository contains my **first end-to-end Data Engineering project**, built using **Microsoft Azure Cloud** and **Azure Databricks** with **PySpark**.
 
